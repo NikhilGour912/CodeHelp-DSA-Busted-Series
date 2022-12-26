@@ -17,7 +17,6 @@ void insertionSort(int n, vector<int> &arr){
             }
             
         }
-        //copy temp value
         arr[j+1] = temp;  
     } 
 }
